@@ -1,5 +1,5 @@
 {
-    "name": "cryptoweb/infoflot-laravel",
+    "name": "brainsrage/infoflot-laravel",
     "description": "Laravel Package for Infoflot PHP Client",
     "keywords": [
         "php",
@@ -19,7 +19,7 @@
     "authors": [
         {
             "name": "Xmk",
-            "email": "i@ars-team.ru"
+            "email": ""
         }
     ],
     "require": {
